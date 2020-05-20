@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ONT 4 Assignment 1 test 4/1.0.0": {
+        "runtime": {
+          "ONT 4 Assignment 1 test 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ONT 4 Assignment 1 test 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
